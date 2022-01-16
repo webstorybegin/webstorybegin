@@ -1,7 +1,5 @@
 ### Hi there 👋, I`m Dmitrii
 
-<br />
-
 # I`m a Frontend developer
 
 
