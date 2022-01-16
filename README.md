@@ -1,4 +1,13 @@
 # Hi there 👋, I`m Dmitrii
+
+<br >
+
+## ⚡ Info:
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webstorybegin&show_icons=true&theme=gruvbox)
+
 ### 💬 Contact with me:
 <br />
 
@@ -7,11 +16,6 @@
 
 <br />
 
-### ⚡ Statistic:
-
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webstorybegin&show_icons=true&theme=gruvbox)
 <!--
 **webstorybegin/webstorybegin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
