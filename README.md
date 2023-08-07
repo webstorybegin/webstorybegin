@@ -1,6 +1,6 @@
 ### Hi there 👋, I`m Dmitrii
 
-# I`m a Frontend developer
+# Frontend developer
 
 
 ### 💬 Contact with me:
